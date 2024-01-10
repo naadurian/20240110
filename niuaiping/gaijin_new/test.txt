@@ -1,0 +1,28 @@
+nohup: 忽略输入
+/gl_data/soft/miniconda3/envs/py38/lib/python3.8/site-packages/setuptools/sandbox.py:13: DeprecationWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html
+  import pkg_resources
+/gl_data/soft/miniconda3/envs/py38/lib/python3.8/site-packages/pkg_resources/__init__.py:2871: DeprecationWarning: Deprecated call to `pkg_resources.declare_namespace('mpl_toolkits')`.
+Implementing implicit namespace packages (as specified in PEP 420) is preferred to `pkg_resources.declare_namespace`. See https://setuptools.pypa.io/en/latest/references/keywords.html#keyword-namespace-packages
+  declare_namespace(pkg)
+/gl_data/soft/miniconda3/envs/py38/lib/python3.8/site-packages/pkg_resources/__init__.py:2871: DeprecationWarning: Deprecated call to `pkg_resources.declare_namespace('google')`.
+Implementing implicit namespace packages (as specified in PEP 420) is preferred to `pkg_resources.declare_namespace`. See https://setuptools.pypa.io/en/latest/references/keywords.html#keyword-namespace-packages
+  declare_namespace(pkg)
+# jionlp - 微信公众号: JioNLP  Github: `https://github.com/dongrixinyu/JioNLP`.
+# jiojio - `http://www.jionlp.com/jionlp_online/cws_pos` is available for online trial.
+# jiojio - Successfully load C funcs for CWS and POS acceleration.
+W1114 17:41:07.212152 59293 gpu_resources.cc:61] Please NOTE: device: 0, GPU Compute Capability: 8.9, Driver API Version: 12.2, Runtime API Version: 11.7
+W1114 17:41:07.220602 59293 gpu_resources.cc:91] device: 0, cuDNN Version: 8.4.
+[32m[2023-11-14 17:41:08,779] [    INFO][0m - Weights from pretrained model not used in UIE: ['linear_start.weight', 'linear_start.bias', 'linear_end.weight', 'linear_end.bias'][0m
+[32m[2023-11-14 17:41:08,789] [    INFO][0m - Converting to the inference model cost a little time.[0m
+[32m[2023-11-14 17:41:14,153] [    INFO][0m - The inference model save in the path:/home/update_code/data/model/information_extraction/uie-base/static/inference[0m
+[32m[2023-11-14 17:41:16,677] [    INFO][0m - We are using <class 'paddlenlp.transformers.ernie.tokenizer.ErnieTokenizer'> to load '/home/update_code/data/model/information_extraction/uie-base'.[0m
+[32m[2023-11-14 17:41:16,879] [    INFO][0m - Converting to the inference model cost a little time.[0m
+[32m[2023-11-14 17:41:17,128] [    INFO][0m - The inference model save in the path:/home/update_code/data/model/pos_tagging/static/inference[0m
+http://www.yngp.com/showBulletinInfo.html?bulletin_id=-7539e44a.18a491b6b95.-50a4
+Error:  'start'
+Error:  'start'
+Error:  'start'
+Error:  'start'
+2909019 李荣文   
+2909019 胡晖   
+2909019 郝琼芳   
